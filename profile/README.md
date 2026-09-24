@@ -1,7 +1,7 @@
 # Sixbell Legacy
 
-**Sixbell-Legacy** es la organización destinada a preservar repositorios históricos o legados de Sixbell bajo un modelo controlado de gobierno.
+**Sixbell-Legacy** es la organización destinada a preservar repositorios históricos o legados de Sixbell bajo un modelo controlado.
 
-Los repositorios aquí contenidos pueden corresponder a soluciones aún soportadas, sistemas congelados, proyectos cerrados o soluciones transferidas.
+Los repositorios aquí contenidos no corresponden, por defecto, al ciclo normal de desarrollo de nuevas soluciones.
 
-El desarrollo de nuevas soluciones debe realizarse en las organizaciones y repositorios activos definidos por Sixbell.
+El desarrollo activo se mantiene en las organizaciones y repositorios definidos por Sixbell para ese propósito.
